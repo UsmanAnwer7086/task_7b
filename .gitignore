@@ -1,0 +1,11 @@
+# Do not stage virtual environment
+gitdvc/
+
+# Do not stage models
+models/
+
+# Do not stage s3 (remote folder for dvc)
+s3/
+
+data/
+/data

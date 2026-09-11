@@ -1,3 +1,0 @@
-This is the text file, i want to upload to GitHub
-
-DevA: Hi, i want to add this line to github
